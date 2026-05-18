@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
-  "versionCode": 1,
-  "changelog": "修复闹钟添加失败问题\n新增待办/打卡/备忘录/闹钟四模块分组功能\n新增全模块统计页面（条形图/折线图/饼图/热力图）\n支持日/周/月/年时间范围切换\n闹钟支持自定义铃声（本地文件选择）\nApp图标更换为书法字\"岸\"\n首页横幅\"517陪你x天啦\"\n自动更新检查",
+  "version": "0.3.1",
+  "versionCode": 2,
+  "changelog": "新增编辑功能\n长按条目可编辑",
   "apkUrl": "https://github.com/4inuri/ccbox-releases/releases/download/v0.3.0/app-release.apk"
 }
