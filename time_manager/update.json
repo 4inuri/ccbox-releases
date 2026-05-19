@@ -1,6 +1,7 @@
 {
-  "version": "0.3.1",
-  "versionCode": 3,
-  "changelog": "取消闹钟功能",
-  "apkUrl": "https://github.com/4inuri/ccbox-releases/releases/download/v0.3.0/app-release.apk"
-}
+    "version": "0.3.1",
+    "versionCode": 3,
+    "changelog":
+  "移除闹钟模块\n新增待办/打卡/备忘录编辑功能\n新增全模块统计页面\n下载更新显示进度条和百分比\n设置页可手动检查更新",
+    "apkUrl": "https://github.com/4inuri/ccbox-releases/releases/download/v0.3.1/app-release.apk"
+  }
