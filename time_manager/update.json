@@ -1,6 +1,6 @@
 {
-  "version": "0.3.2",
-  "versionCode": 5,
-  "changelog": "备忘录详情弹窗增加编辑入口\n统计图改为纵向滚动、单图半屏，一次可见两个图表",
-  "apkUrl": "https://github.com/4inuri/ccbox-releases/releases/download/v0.3.2/app-release.apk"
+  "version": "0.3.3",
+  "versionCode": 6,
+  "changelog": "更新支持后台下载，锁屏/切应用不中断\n下载时保持屏幕常亮，通知栏显示进度\n备忘录详情弹窗增加编辑入口\n统计图改为纵向滚动、单图半屏，一次可见两个图表",
+  "apkUrl": "https://github.com/4inuri/ccbox-releases/releases/download/v0.3.3/app-release.apk"
 }
