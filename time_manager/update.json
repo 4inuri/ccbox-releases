@@ -1,7 +1,6 @@
 {
-    "version": "0.3.1",
-    "versionCode": 4,
-    "changelog":
-  "移除闹钟模块\n新增待办/打卡/备忘录编辑功能\n新增全模块统计页面\n下载更新显示进度条和百分比\n设置页可手动检查更新",
-    "apkUrl": "https://github.com/4inuri/ccbox-releases/releases/download/v0.3.1/app-release.apk"
-  }
+  "version": "0.3.2",
+  "versionCode": 5,
+  "changelog": "备忘录详情弹窗增加编辑入口\n统计图改为纵向滚动、单图半屏，一次可见两个图表",
+  "apkUrl": "https://github.com/4inuri/ccbox-releases/releases/download/v0.3.2/app-release.apk"
+}
